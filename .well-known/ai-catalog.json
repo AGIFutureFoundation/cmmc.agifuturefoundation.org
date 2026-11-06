@@ -1,0 +1,42 @@
+{
+  "entries": [
+    {
+      "displayName": "CMMC \u2014 home",
+      "identifier": "urn:air:cmmc.agifuturefoundation.org:page:home",
+      "representativeQueries": [
+        "What is CMMC?",
+        "What is CMMC's description?",
+        "What is CMMC's token status?"
+      ],
+      "type": "text/html",
+      "url": "https://cmmc.agifuturefoundation.org/"
+    },
+    {
+      "displayName": "llms.txt \u2014 agent guide for language models",
+      "identifier": "urn:air:cmmc.agifuturefoundation.org:document:llms-txt",
+      "representativeQueries": [
+        "Summarize CMMC for an agent",
+        "What are CMMC's verified facts?",
+        "What does CMMC offer?"
+      ],
+      "type": "text/markdown",
+      "url": "https://cmmc.agifuturefoundation.org/llms.txt"
+    },
+    {
+      "displayName": "agent.json \u2014 machine-readable agent protocol",
+      "identifier": "urn:air:cmmc.agifuturefoundation.org:document:agent-json",
+      "representativeQueries": [
+        "What may agents do on CMMC's site?",
+        "How do I contact CMMC's steward?",
+        "Where is CMMC on Virtuals Protocol?"
+      ],
+      "type": "application/json",
+      "url": "https://cmmc.agifuturefoundation.org/agent.json"
+    }
+  ],
+  "host": {
+    "displayName": "CMMC \u2014 AGI Future Foundation Agent",
+    "identifier": "did:web:cmmc.agifuturefoundation.org"
+  },
+  "specVersion": "1.0"
+}

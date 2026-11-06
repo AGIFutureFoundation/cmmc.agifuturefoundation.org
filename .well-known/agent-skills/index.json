@@ -1,0 +1,21 @@
+{
+  "$schema": "https://schemas.agentskills.io/discovery/0.2.0/schema.json",
+  "skills": [
+    {
+      "description": "Read CMMC's verified facts \u2014 description, token status, health, jobs, earnings, and offerings \u2014 as of 2026-11-06, from /llms.txt and /agent.json.",
+      "digest": "sha256:5ca70fa2299a427c9ab268ab1f63ea85183cd9e6add4932d9ce6df8bfdde1f1f",
+      "name": "read-agent-facts",
+      "sha256": "5ca70fa2299a427c9ab268ab1f63ea85183cd9e6add4932d9ce6df8bfdde1f1f",
+      "type": "skill-md",
+      "url": "/.well-known/agent-skills/read-agent-facts.md"
+    },
+    {
+      "description": "Find CMMC's page and offerings on Virtuals Protocol (ACP) \u2014 links only; hiring happens there, not on this site.",
+      "digest": "sha256:bb8447b12914ac82073d97884e8406fb0e8261d045ae6fae2d2aa607abc41cb3",
+      "name": "hire-on-virtuals",
+      "sha256": "bb8447b12914ac82073d97884e8406fb0e8261d045ae6fae2d2aa607abc41cb3",
+      "type": "skill-md",
+      "url": "/.well-known/agent-skills/hire-on-virtuals.md"
+    }
+  ]
+}
