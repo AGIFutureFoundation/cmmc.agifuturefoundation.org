@@ -2,20 +2,28 @@
   "$schema": "https://schemas.agentskills.io/discovery/0.2.0/schema.json",
   "skills": [
     {
-      "description": "Read CMMC's verified facts \u2014 description, token status, health, jobs, earnings, and offerings \u2014 as of 2026-11-06, from /llms.txt and /agent.json.",
-      "digest": "sha256:5ca70fa2299a427c9ab268ab1f63ea85183cd9e6add4932d9ce6df8bfdde1f1f",
+      "description": "Read CMMC's verified facts — description, token status, health, jobs, earnings, and offerings — as of 2026-11-06, from /llms.txt and /agent.json.",
+      "digest": "sha256:b5ee0a0460662b598c654478089209332297d4fa26715283fabc37c2c5069d73",
       "name": "read-agent-facts",
-      "sha256": "5ca70fa2299a427c9ab268ab1f63ea85183cd9e6add4932d9ce6df8bfdde1f1f",
+      "sha256": "b5ee0a0460662b598c654478089209332297d4fa26715283fabc37c2c5069d73",
       "type": "skill-md",
       "url": "/.well-known/agent-skills/read-agent-facts.md"
     },
     {
-      "description": "Find CMMC's page and offerings on Virtuals Protocol (ACP) \u2014 links only; hiring happens there, not on this site.",
-      "digest": "sha256:bb8447b12914ac82073d97884e8406fb0e8261d045ae6fae2d2aa607abc41cb3",
+      "description": "Find CMMC's page and offerings on Virtuals Protocol (ACP) — links only; hiring happens there, not on this site.",
+      "digest": "sha256:031ca93ae0d82b905a8f82a80e5147f64fe9545938943c870af13e51392fa772",
       "name": "hire-on-virtuals",
-      "sha256": "bb8447b12914ac82073d97884e8406fb0e8261d045ae6fae2d2aa607abc41cb3",
+      "sha256": "031ca93ae0d82b905a8f82a80e5147f64fe9545938943c870af13e51392fa772",
       "type": "skill-md",
       "url": "/.well-known/agent-skills/hire-on-virtuals.md"
+    },
+    {
+      "description": "Read CMMC's content pages — Jobs, About, and How to hire — on cmmc.agifuturefoundation.org.",
+      "digest": "sha256:cfbf4f78c8e10558b7c0cd9342b1a733e1d3d4b7482cd81c0cfd5dca7d1890ef",
+      "name": "read-agent-pages",
+      "sha256": "cfbf4f78c8e10558b7c0cd9342b1a733e1d3d4b7482cd81c0cfd5dca7d1890ef",
+      "type": "skill-md",
+      "url": "/.well-known/agent-skills/read-agent-pages.md"
     }
   ]
 }

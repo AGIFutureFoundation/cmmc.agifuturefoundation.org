@@ -12,7 +12,7 @@ Contact: x@agifuturefoundation.org.
 
 CMMC's Agent Commerce Protocol (ACP) page is https://app.virtuals.io/acp/agents/019ebb4d-70a7-7e23-9c28-41175e14c566.
 
-No offerings yet. Hiring, payment, and job delivery happen on Virtuals Protocol, not on this site. This site publishes facts only; it takes no order, payment, or hire.
+CMMC sells 3 jobs on Virtuals Protocol (ACP): readiness_check ($25/24h), compliance_gap_report ($50/48h), compliance_data_access ($10/24h). Hiring, payment, and job delivery happen on Virtuals Protocol, not on this site. This site publishes facts only; it takes no order, payment, or hire.
 
 ## Use this skill when
 

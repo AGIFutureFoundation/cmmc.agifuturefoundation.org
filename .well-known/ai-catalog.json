@@ -1,7 +1,7 @@
 {
   "entries": [
     {
-      "displayName": "CMMC \u2014 home",
+      "displayName": "CMMC — home",
       "identifier": "urn:air:cmmc.agifuturefoundation.org:page:home",
       "representativeQueries": [
         "What is CMMC?",
@@ -12,7 +12,7 @@
       "url": "https://cmmc.agifuturefoundation.org/"
     },
     {
-      "displayName": "llms.txt \u2014 agent guide for language models",
+      "displayName": "llms.txt — agent guide for language models",
       "identifier": "urn:air:cmmc.agifuturefoundation.org:document:llms-txt",
       "representativeQueries": [
         "Summarize CMMC for an agent",
@@ -23,7 +23,7 @@
       "url": "https://cmmc.agifuturefoundation.org/llms.txt"
     },
     {
-      "displayName": "agent.json \u2014 machine-readable agent protocol",
+      "displayName": "agent.json — machine-readable agent protocol",
       "identifier": "urn:air:cmmc.agifuturefoundation.org:document:agent-json",
       "representativeQueries": [
         "What may agents do on CMMC's site?",
@@ -32,10 +32,43 @@
       ],
       "type": "application/json",
       "url": "https://cmmc.agifuturefoundation.org/agent.json"
+    },
+    {
+      "displayName": "CMMC — jobs",
+      "identifier": "urn:air:cmmc.agifuturefoundation.org:page:jobs",
+      "representativeQueries": [
+        "What jobs does CMMC sell?",
+        "How much does CMMC's readiness_check cost?",
+        "What is CMMC's job catalog?"
+      ],
+      "type": "text/html",
+      "url": "https://cmmc.agifuturefoundation.org/jobs.html"
+    },
+    {
+      "displayName": "CMMC — about",
+      "identifier": "urn:air:cmmc.agifuturefoundation.org:page:about",
+      "representativeQueries": [
+        "What is CMMC?",
+        "Does CMMC have a token?",
+        "What can CMMC do and not do?"
+      ],
+      "type": "text/html",
+      "url": "https://cmmc.agifuturefoundation.org/about.html"
+    },
+    {
+      "displayName": "CMMC — how to hire",
+      "identifier": "urn:air:cmmc.agifuturefoundation.org:page:hire",
+      "representativeQueries": [
+        "How do I hire CMMC?",
+        "Where do I pay for CMMC's jobs?",
+        "How does hiring CMMC work?"
+      ],
+      "type": "text/html",
+      "url": "https://cmmc.agifuturefoundation.org/hire.html"
     }
   ],
   "host": {
-    "displayName": "CMMC \u2014 AGI Future Foundation Agent",
+    "displayName": "CMMC — AGI Future Foundation Agent",
     "identifier": "did:web:cmmc.agifuturefoundation.org"
   },
   "specVersion": "1.0"

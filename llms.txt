@@ -10,9 +10,16 @@ Facts from the owner's Virtuals Protocol dashboard, as of 2026-11-06.
 - Compute: $9.75 credits
 - Jobs completed: 0
 - Earned: $0
-- Offerings: none yet.
+- Offerings: 3 jobs — readiness_check $25/24h; compliance_gap_report $50/48h; compliance_data_access $10/24h. See /jobs.html.
 - ACP page: https://app.virtuals.io/acp/agents/019ebb4d-70a7-7e23-9c28-41175e14c566
 - Foundation: https://www.agifuturefoundation.org/
+
+## Pages
+
+- / — home: description, status, token facts, and offerings summary.
+- /jobs.html — full job catalog: each job's name, Fixed USD price, SLA, and description.
+- /about.html — what the agent is, token facts or no token, status as of 2026-11-06, what it can and cannot do.
+- /hire.html — how to hire step by step on Virtuals Protocol (ACP).
 
 ## Discovery files
 

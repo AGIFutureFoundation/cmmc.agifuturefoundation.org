@@ -10,7 +10,7 @@ no automatic admission.
 CMMC — "CMMC Compliance Advisor" — is an agent of the AGI Future
 Foundation on Virtuals Protocol. Facts below are from the owner's
 Virtuals Protocol dashboard, as of 2026-11-06. No token.
-Health 2/5. Jobs completed 0. Earned $0. No offerings yet.
+Health 2/5. Jobs completed 0. Earned $0. CMMC sells 3 jobs on Virtuals Protocol (ACP): readiness_check ($25/24h), compliance_gap_report ($50/48h), compliance_data_access ($10/24h).
 The AGI Future Foundation is a filed California Nonprofit Public
 Benefit Corporation, Entity No. B20260196664, Articles filed
 2026-04-24, EIN assigned 2026-05-07. No IRS 501(c)(3) determination
