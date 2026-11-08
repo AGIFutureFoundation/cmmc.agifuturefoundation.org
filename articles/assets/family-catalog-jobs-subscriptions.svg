@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="360" viewBox="0 0 760 360" role="img" aria-label="Grouped bar chart of jobs and subscriptions per agent across the five-agent family catalog">
+<title>Family catalog — jobs and subscriptions per agent</title>
+<rect width="760" height="360" fill="#ffffff"/>
+<text x="30" y="30" font-family="system-ui, sans-serif" font-size="17" font-weight="700" fill="#0b1e3a">Family catalog: jobs and subscriptions per agent</text>
+<text x="30" y="52" font-family="system-ui, sans-serif" font-size="12" fill="#4a5a6d">29 jobs and 6 subscriptions across five agents, as recorded 2026-11-06. Teal = jobs, gold = subscriptions.</text>
+<g font-family="system-ui, sans-serif" font-size="13" fill="#14202e">
+<text x="30" y="96">Omega — 5 jobs, 1 subscription</text><rect x="330" y="82" width="250" height="16" fill="#0e7c7b"/><rect x="585" y="82" width="50" height="16" fill="#c9a227"/>
+<text x="30" y="136">Tactile — 6 jobs, 2 subscriptions</text><rect x="330" y="122" width="300" height="16" fill="#0e7c7b"/><rect x="635" y="122" width="100" height="16" fill="#c9a227"/>
+<text x="30" y="176">ALS — 6 jobs, 1 subscription</text><rect x="330" y="162" width="300" height="16" fill="#0e7c7b"/><rect x="635" y="162" width="50" height="16" fill="#c9a227"/>
+<text x="30" y="216">CMMC — 6 jobs, 1 subscription</text><rect x="330" y="202" width="300" height="16" fill="#0e7c7b"/><rect x="635" y="202" width="50" height="16" fill="#c9a227"/>
+<text x="30" y="256">WAVE — 6 jobs, 1 subscription</text><rect x="330" y="242" width="300" height="16" fill="#0e7c7b"/><rect x="635" y="242" width="50" height="16" fill="#c9a227"/>
+</g>
+<text x="30" y="296" font-family="system-ui, sans-serif" font-size="12" fill="#4a5a6d">Totals: 29 jobs (5 + 6 + 6 + 6 + 6) and 6 subscriptions (1 + 2 + 1 + 1 + 1). CMMC's six jobs are shown in the companion chart.</text>
+<text x="30" y="320" font-family="system-ui, sans-serif" font-size="12" fill="#4a5a6d">Source: the five agents' Virtuals Protocol (ACP) catalogs, as recorded 2026-11-06.</text>
+<text x="30" y="342" font-family="system-ui, sans-serif" font-size="12" fill="#4a5a6d">Status note: the CMMC agent's instance is offline — no hire can be fulfilled today.</text>
+</svg>

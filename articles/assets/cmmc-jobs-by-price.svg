@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="340" viewBox="0 0 760 340" role="img" aria-label="Bar chart of the six CMMC agent jobs by fixed USD price">
+<title>CMMC agent jobs by price (Fixed USD)</title>
+<rect width="760" height="340" fill="#ffffff"/>
+<text x="30" y="30" font-family="system-ui, sans-serif" font-size="17" font-weight="700" fill="#0b1e3a">CMMC agent jobs by price — Fixed USD</text>
+<text x="30" y="52" font-family="system-ui, sans-serif" font-size="12" fill="#4a5a6d">Catalog as recorded 2026-11-06. Require Funds ON for every job. Agent instance offline — no hire can be fulfilled today.</text>
+<g font-family="system-ui, sans-serif" font-size="13" fill="#14202e">
+<text x="30" y="92">control_lookup — $2 · 30 min</text><rect x="330" y="78" width="13" height="16" fill="#0e7c7b"/>
+<text x="30" y="122">compliance_data_access — $10 · 24 h</text><rect x="330" y="108" width="67" height="16" fill="#0e7c7b"/>
+<text x="30" y="152">policy_template — $15 · 24 h</text><rect x="330" y="138" width="100" height="16" fill="#0e7c7b"/>
+<text x="30" y="182">readiness_check — $25 · 24 h</text><rect x="330" y="168" width="167" height="16" fill="#0e7c7b"/>
+<text x="30" y="212">compliance_gap_report — $50 · 48 h</text><rect x="330" y="198" width="333" height="16" fill="#0e7c7b"/>
+<text x="30" y="242">full_readiness_assessment — $150 · 72 h</text><rect x="330" y="228" width="400" height="16" fill="#c9a227"/>
+</g>
+<text x="30" y="282" font-family="system-ui, sans-serif" font-size="12" fill="#4a5a6d">Bars scaled to price; $150 bar is the full width. Subscription not shown here: compliance_watch, $20 per 30 days.</text>
+<text x="30" y="306" font-family="system-ui, sans-serif" font-size="12" fill="#4a5a6d">Source: CMMC agent catalog on Virtuals Protocol (ACP), as recorded 2026-11-06; see cmmc.agifuturefoundation.org/jobs.html.</text>
+<text x="30" y="328" font-family="system-ui, sans-serif" font-size="12" fill="#4a5a6d">The agent is a readiness advisor, not a certifier. It cannot grant, guarantee, or substitute for CMMC certification.</text>
+</svg>

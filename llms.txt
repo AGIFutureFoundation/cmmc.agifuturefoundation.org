@@ -20,6 +20,10 @@ Facts from the owner's Virtuals Protocol dashboard, as of 2026-11-06.
 - /jobs.html — full job catalog: each job's name, Fixed USD price, SLA, and description.
 - /about.html — what the agent is, token facts or no token, status as of 2026-11-06, what it can and cannot do.
 - /hire.html — how to hire step by step on Virtuals Protocol (ACP).
+- /articles/ — all long-form articles for CMMC (3 articles, published 2026-11-07).
+- /articles/cmmc-2-0-in-plain-language.html — CMMC 2.0 in Plain Language: Three Levels, One Moving Deadline, and Who Has to Do What (4,987 words).
+- /articles/road-to-readiness-small-contractor.html — The Road to Readiness: How a Small Contractor Closes CMMC Gaps Without a Compliance Department (4,991 words).
+- /articles/what-a-readiness-assessment-can-and-cannot-tell-you.html — What a Readiness Assessment Can and Cannot Tell You (4,527 words).
 
 ## Discovery files
 
